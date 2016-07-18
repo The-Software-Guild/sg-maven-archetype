@@ -18,9 +18,9 @@
             <h1>Spring MVC Application from Archetype</h1>
             <hr/>
             <div class="navbar">
-                 <ul class="nav nav-tabs">
-                 <li role="presentation" class="active"><a href="${pageContext.request.contextPath}/index.jsp">Home</a></li>
-                <li role="presentation"><a href="${pageContext.request.contextPath}/hello/sayhi">Hello Controller</a></li>
+                <ul class="nav nav-tabs">
+                	<li role="presentation" class="active"><a href="${pageContext.request.contextPath}/index.jsp">Home</a></li>
+                	<li role="presentation"><a href="${pageContext.request.contextPath}/hello/sayhi">Hello Controller</a></li>
                 </ul>    
             </div>
             <h2>Home Page</h2>
