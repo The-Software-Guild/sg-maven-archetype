@@ -26,7 +26,7 @@
             <h2>Home Page</h2>
         </div>
         <!-- Placed at the end of the document so the pages load faster -->
-        <script src="${pageContext.request.contextPath}/js/jquery-3.0.0.min.js"></script>
+        <script src="${pageContext.request.contextPath}/js/jquery-2.2.4.min.js"></script>
         <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
 
     </body>
