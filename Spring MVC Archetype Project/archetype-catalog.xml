@@ -4,7 +4,7 @@
     <archetype>
       <groupId>com.sg</groupId>
       <artifactId>spring-mvc-archetype</artifactId>
-      <version>1.2.3</version>
+      <version>1.3.0</version>
       <description>local archetype</description>
     </archetype>
   </archetypes>
